@@ -1,0 +1,9 @@
+#container{
+    grid: initial;
+    margin: 10px solid red;
+    background-color: yellow;
+    color: rgb(113, 196, 59);
+}
+h1 {
+    color: rgb(172, 172, 201);
+}
